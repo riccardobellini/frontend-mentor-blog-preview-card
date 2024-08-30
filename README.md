@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-html-css-H86kRKEjfW)
+- Live Site URL: [Live Site URL](https://frontend-mentor-blog-preview-card-dusky-nu.vercel.app/)
 
 ## My process
 
